@@ -27,11 +27,13 @@ MyKnowledgeVault/
 │   ├── *.md              ◄ Raw source text files and notes
 │   └── assets/           ◄ Local image attachments and PDFs
 │
-└── wiki/                 ◄ MUTABLE SYNTHESIS LAYER (Your Sandbox)
-    ├── index.md          ◄ The Content Index (Karpathy standard)
-    ├── log.md            ◄ The Chronological Log (Karpathy standard)
-    ├── concepts/         ◄ Concept markdown pages
-    └── entities/         ◄ Entity markdown pages
+├── wiki/                 ◄ MUTABLE SYNTHESIS LAYER (Your Sandbox)
+│   ├── concepts/         ◄ Concept markdown pages
+│   └── entities/         ◄ Entity markdown pages
+│    
+├── index.md              ◄ The Content Index (Karpathy standard)
+└── log.md                ◄ The Chronological Log (Karpathy standard)
+
 
 ```
 
